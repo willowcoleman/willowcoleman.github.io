@@ -501,14 +501,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%72%77%63%6F%6C%65%6D%61%6E@%67.%75%63%6C%61.%65%64%75", "_blank");
+          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-inspire',
+        title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/willowcoleman", "_blank");
+          window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
         id: 'social-rss',
@@ -516,6 +516,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/al-folio/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
