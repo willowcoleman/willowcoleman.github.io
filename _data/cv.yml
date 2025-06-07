@@ -3,7 +3,6 @@
   contents:
     - title: Geography PhD Student
       institution: University of California, Los Angeles, CA
-      year: September 2024 - Present
     - title: BS Mathematical and Computational Biology
       institution: Harvey Mudd College, Claremont, CA
 
@@ -12,38 +11,38 @@
   contents:
     - title: Research Technologist
       institution: Imaging Spectroscopy Group, NASA JPL, Pasadena, CA
-      year: April 2023 - September 2024
+      year: 2023-2024
 
     - title: Software Engineer
       institution: Schmidt Academy for Software Engineering, California Institute of Technology, Pasadena, CA
-      year: Aug 2022 - April 2023
+      year: 2022-2023
 
     - title: AI Scholars Instructor
       institution: Inspirit AI
-      year: Dec 2021 - May 2022
+      year: 2021-2022
 
     - title: Payload Intern
       institution: Planet Labs
-      year: May 2021 - Aug 2021
+      year: 2021
 
     - title: Systems & Analysis Technical Assistant
       institution: MIT Lincoln Laboratory
-      year: Jan 2021 - May 2021
+      year: 2021
 
     - title: Carbon Cycle & Ecosystems Intern
       institution: NASA Jet Propulsion Laboratory
-      year: Jun 2018 - Dec 2020
+      year: 2018-2020
 
     - title: NASA DEVELOP Team Member
       institution: Science Systems & Applications Inc.
-      year: Sep 2020 - Nov 2020
+      year: 2020
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2025
+    - year: 2025-2026
       items: UCLA Graduate Research Mentor Fellowship
-    - year: 2025
+    - year: 2024-2025
       items: UCLA Urban Humanities Certificate
     - year: 2024
       items: NSF GRFP Honorable Mention
@@ -68,22 +67,3 @@
     - Photography
     - Backpacking
     - Cooking
-# - title: Education
-#    type: time_table
-#    contents:
-#      - title: PhD
-#        institution: University of Zurich, Zurich, Switzerland
-#        year: 1905
-#        description:
-#          - Description 1.
-#          - Description 2.
-#          - title: Description 3.
-#            contents:
-#              - Sub-description 1.
-#              - Sub-description 2.
-#      - title: Federal teaching diploma
-#        institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-#        year: 1900
-#        description:
-#          - Description 1.
-#          - Description 2.
