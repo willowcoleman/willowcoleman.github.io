@@ -3,8 +3,10 @@
   contents:
     - title: Geography PhD Student
       institution: University of California, Los Angeles, CA
+      year: 2024-Present
     - title: BS Mathematical and Computational Biology
       institution: Harvey Mudd College, Claremont, CA
+      year: 2022
 
 - title: Experience
   type: time_table
