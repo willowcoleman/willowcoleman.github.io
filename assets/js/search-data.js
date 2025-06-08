@@ -23,11 +23,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-started-phd-in-geography-at-ucla-in-the-okin-lab",
+        },{id: "news-awarded-mindlin-prize-for-innovative-ideas-in-science-at-harvey-mudd-college-microscope",
+          title: 'Awarded Mindlin Prize for Innovative Ideas in Science at Harvey Mudd College :microscope:...',
+          description: "",
+          section: "News",},{id: "news-received-nsf-grfp-honorable-mention-pencil2",
+          title: 'Received NSF GRFP Honorable Mention :pencil2:',
+          description: "",
+          section: "News",},{id: "news-completed-a-year-long-certificate-in-urban-humanities-at-ucla-through-citylab-ucla-city-sunset",
+          title: 'Completed a year-long certificate in Urban Humanities at UCLA through CityLab-UCLA :city_sunset:',
+          description: "",
+          section: "News",},{id: "news-started-phd-in-geography-at-ucla-in-the-okin-lab",
           title: 'Started PhD in Geography at UCLA in the Okin Lab!',
           description: "",
-          section: "News",},{id: "news-selected-for-2025-26-ucla-graduate-research-mentorship-fellowship",
-          title: 'Selected for 2025-26 UCLA Graduate Research Mentorship Fellowship',
+          section: "News",},{id: "news-selected-for-2025-26-ucla-graduate-research-mentorship-fellowship-pencil2",
+          title: 'Selected for 2025-26 UCLA Graduate Research Mentorship Fellowship :pencil2:',
           description: "",
           section: "News",},{
         id: 'social-email',
