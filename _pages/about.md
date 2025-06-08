@@ -5,7 +5,7 @@ permalink: /
 subtitle: Geography PhD Student @ UCLA
 
 profile:
-  align: left
+  align: right
   image: wcoleman_headshot.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
